@@ -10,7 +10,7 @@ I am an enthusiastic learner who love to explore new technologies and leveraging
 
 **Connect with me:**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ishika-goel-37542117b//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ishika-goel-37542117b//)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishikagoel5628&show_icons=true)  
 
